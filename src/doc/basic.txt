@@ -1,0 +1,9 @@
+POST /painter/color/object HTTP/1.1
+Host: localhost:8443
+Authorization: Basic c25vb3B5OnBhc3M=
+User-Agent: curl/7.43.0
+Accept: */*
+Content-Type: application/json
+Content-Length: 45
+
+{"color":{"b":255,"g":0,"name":"blue","r":0}}
