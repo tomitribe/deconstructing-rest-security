@@ -2,7 +2,7 @@
 
 This is the git repo to hold any code that supports the Deconstructing REST Security talk.  At the moment, there's only a `hashes` command.
 
-# Hashes command
+## Hashes command
 
 To build:
 
@@ -30,7 +30,7 @@ For example, to hash the pom.xml file:
     
 The `hashes` binary is self-contained and can be moved into a bin directory in your `PATH`.  I put mine in `~/bin/`, which is where I tend to put small tools and personals scripts.
 
-## Use of `hashes` in the talk
+### Use of `hashes` in the talk
 
 In the part of the talk that helps people understand hashes, a football/soccer game analogy is used.  We tend to use teams local to wherever the talk is given, which means creating a file such as this:
 
